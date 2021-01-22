@@ -9,7 +9,7 @@ See: https://github.com/trustmaster/trac2github
 Requirements:
 1. PHP (e.g. on Ubuntu `apt-get install php`)
 2. Support for the trac database format, e.g. `php-mysql`, `php-sqlite3`, etc.
-3. `php-curl`
+3. `apt-get install php-curl`
 
 Athenticating with GitHub, including with two-factor authentication:
 1. Set up a GitHub personal access token, see https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/
