@@ -7,7 +7,7 @@ See: https://github.com/trustmaster/trac2github
 `$ php trac2github.php`
 
 Requirements:
-1. PHP (e.g. on Ubuntu `apt-get install php`)
+1. PHP (e.g. on Ubuntu `apt-get install php`) (I prefer `apt-get install php-fpm` to not install apache over my existing web server)
 2. Support for the trac database format, e.g. `php-mysql`, `php-sqlite3`, etc.
 3. `apt-get install php-curl`
 
