@@ -17,3 +17,4 @@ Athenticating with GitHub, including with two-factor authentication:
 3. Set the password field in the configuration to your GitHub personal access token
 
 
+test
